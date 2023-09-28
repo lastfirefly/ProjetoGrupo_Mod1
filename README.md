@@ -23,7 +23,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issue
 Este chatbot foi desenvolvido pelos integrantes do grupo 1 - Squad Talk To Me:
 
 
-Arthur Gosi
+Arthur Gosi - arthurgosi263@gmail.com
 
 Arthur Machado - arth-ur@live.com
 
